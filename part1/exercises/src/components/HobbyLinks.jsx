@@ -1,5 +1,5 @@
-export default function HobbyLinks() {
-hobbyLinks = [
+function HobbyLinks() {
+let hobbyLinks = [
 "https://hobbyhelp.com/best-electric-skateboards-longboards/",
 "https://www.wikihow.com/Make-Pottery"
 ]
@@ -13,3 +13,4 @@ return (
 
 
 }
+export default HobbyLinks

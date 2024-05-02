@@ -1,5 +1,5 @@
 export default function BookList() {
-   let pageTitle = "Book Titles Released This Wee";
+   let pageTitle = "Book Titles Released This Week";
    let book1 = "https://th.bing.com/th/id/OIP.LWELQFyyqAdZ6xy0pHkjHQAAAA?rs=1&pid=ImgDetMain";
    let book2 = "https://th.bing.com/th/id/OIP.ASe4wcW_EJDOtThFCAMmRAAAAA?rs=1&pid=ImgDetMain";
    let book3 = "https://th.bing.com/th/id/OIP.RJ-y1xw0LkEaIFhHT7sjPAHaLW?rs=1&pid=ImgDetMain";

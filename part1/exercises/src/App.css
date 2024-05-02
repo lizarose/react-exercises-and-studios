@@ -40,4 +40,6 @@
 .similarComponents {
   display:flex;
 justify-content:space-between;
+border-style: double;
+
 }
