@@ -1,7 +1,11 @@
 import recipedata from "./recipe.json";
 
 function RecipeName() {
-  return recipedata;
+  // return recipedata;
+  const recipeName = recipedata.map((data) => {
+    return <h1>{data.name}</h1>
+  })
+  return <div>{recipeName}</div>
 }
 
 export default RecipeName;
