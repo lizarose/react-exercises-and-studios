@@ -11,7 +11,7 @@ function App() {
       <div className="App">
         <RecipeDisplay />
         <div className="recipePhotoBlock">
-          <BoardAssignment />
+           <BoardAssignment />
           <StatusChange />
         </div>
       </div>
